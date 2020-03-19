@@ -1,0 +1,23 @@
+#syntax
+ReturnType Name() {
+
+}
+
+//every java code should have one function ie. Main function
+//every java code should have class
+//functions inside class are called methods
+
+class Main() {
+  void main() {
+
+  }
+}
+
+//for naming class we use PascalNamingConvention
+//for naming methods we use camelNamingConvention
+//access modifier define if other classes and methods can use other classes and methods
+
+pubic class Main() {
+  public void main() {
+  }
+}
