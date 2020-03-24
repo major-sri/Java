@@ -1,0 +1,9 @@
+class main{
+  voide main{
+  system.out.println("hello world");
+  }
+}
+
+
+#Output
+// hello world
