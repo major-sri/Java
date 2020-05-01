@@ -1,5 +1,5 @@
 class main{
-  void main{
+  void main(String[] args){
   int age=29;
   system.out.println(age);
   age=45;
